@@ -1,4 +1,5 @@
 #!/bin/sh
+# just adding a comment
 
 set -e
 
